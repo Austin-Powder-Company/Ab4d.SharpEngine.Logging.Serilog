@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ab4d.SharpEngine.Logging.Serilog", "Ab4d.SharpEngine.Logging.Serilog\Ab4d.SharpEngine.Logging.Serilog.csproj", "{8BD19F95-C225-4B8F-9825-678BA19EBBCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ab4d.SharpEngine.Logging.Serilog.Tests", "Ab4d.SharpEngine.Logging.Serilog.Tests\Ab4d.SharpEngine.Logging.Serilog.Tests.csproj", "{52ED4BD5-1ACF-4A2B-A307-122296C5FFF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD19F95-C225-4B8F-9825-678BA19EBBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD19F95-C225-4B8F-9825-678BA19EBBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD19F95-C225-4B8F-9825-678BA19EBBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD19F95-C225-4B8F-9825-678BA19EBBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52ED4BD5-1ACF-4A2B-A307-122296C5FFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52ED4BD5-1ACF-4A2B-A307-122296C5FFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52ED4BD5-1ACF-4A2B-A307-122296C5FFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52ED4BD5-1ACF-4A2B-A307-122296C5FFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6852867-96C9-44B3-9FA9-0E961DA3379B}
+	EndGlobalSection
+EndGlobal
